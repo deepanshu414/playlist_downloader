@@ -17,14 +17,22 @@ Playlist Downloader is a robust Python library that simplifies the process of do
 
 ## Installation
 
-Install Playlist Downloader using pip:
+1. Install Playlist Downloader using pip:
 
 ```sh
 pip install Playlist
 ```
-For the latest development version, you can install directly from the GitHub repository:
+2. For the latest development version, you can install directly from the GitHub repository:
 ```sh
 pip install git+https://github.com/deepanshu414/playlist-downloader.git
+```
+3. Clone the repository:
+```sh
+git clone https://github.com/deepanshu414/playlist-downloader.git
+```
+4. Navigate to the project directory:
+```sh
+cd playlist-downloader
 ```
 
 ## Usage
