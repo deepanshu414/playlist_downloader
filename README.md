@@ -122,7 +122,7 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Author
-Deepanshu Antil - GitHub Profile
+Deepanshu Antil - [GitHub Profile](https://github.com/deepanshu414)
 ## Contact
 For support or inquiries, please open an issue on the GitHub repository.
 ## Acknowledgments
