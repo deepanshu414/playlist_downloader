@@ -5,6 +5,21 @@
 
 Playlist Downloader is a robust Python library that simplifies the process of downloading entire YouTube playlists. It leverages the powerful pytube library to fetch and download videos at their highest available resolution.
 
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Advanced Usage](#advanced-usage)
+- [Configuration](#configuration)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+- [Changelog](#changelog)
+- [Roadmap](#roadmap)
+
 ## Features
 
 - Effortless downloading of complete YouTube playlists
