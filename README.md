@@ -1,12 +1,12 @@
-# Playlist Downloader
-
-[![PyPI version](https://badge.fury.io/py/Playlist.svg)](https://badge.fury.io/py/Playlist)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
+<img src="https://socialify.git.ci/deepanshu414/playlist_downloader/image?description=1&descriptionEditable=Playlist%20Downloader%20simplifies%20the%20process%20of%20downloading%20YouTube%20playlists%20by%20providing%20a%20straightforward%20API%20to%20fetch%20and%20save%20videos%20from%20a%20given%20playlist%20URL.&font=KoHo&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="Playlist    " width="640" height="320" />
+</div>
 
 Playlist Downloader is a robust Python library that simplifies the process of downloading entire YouTube playlists. It leverages the powerful pytube library to fetch and download videos at their highest available resolution.
 
 ## Table of Contents
 - [Features](#features)
+- [Badges](#badges)
 - [Installation](#installation)
 - [Usage/Example](#usageexample)
 - [Requirements](#requirements)
@@ -17,10 +17,20 @@ Playlist Downloader is a robust Python library that simplifies the process of do
 
 ## Features
 
-- Effortless downloading of complete YouTube playlists
-- Automatic selection of the highest available video resolution
-- Customizable download path for organizing your media
-- Progress tracking and error handling
+1. **Streamlined Playlist Acquisition**
+   - Effortlessly download entire YouTube playlists with a single command
+
+2. **Intelligent Quality Selection**
+   - Automatic acquisition of the highest available video resolution
+
+3. **Flexible File Management**
+   - User-defined download directory for organized media storage
+4. **Format Versatility**
+   - Support for multiple output formats (MP4, MKV, etc.)
+
+## Badges
+![PyPI version](https://badge.fury.io/py/Playlist.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Installation
 
