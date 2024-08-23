@@ -1,0 +1,7 @@
+setup.py
+PlayList.egg-info/PKG-INFO
+PlayList.egg-info/SOURCES.txt
+PlayList.egg-info/dependency_links.txt
+PlayList.egg-info/requires.txt
+PlayList.egg-info/top_level.txt
+Playlist/__init__.py
