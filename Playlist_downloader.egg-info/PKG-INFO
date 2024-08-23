@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Playlist_downloader
+Version: 0.0.1
+Summary: Playlist Downloader simplifies the process of downloading YouTube playlists by providing a straightforward API to fetch and save videos from a given playlist URL.
+Home-page: https://github.com/deepanshu414/playlist_downloader
+Author: Deepanshu antil
+Author-email: deepanshuantil4113@gmail.com
+Maintainer: Deepanshu antil
+License: MIT
+Requires-Dist: pytube
