@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(name="Playlist_downloader",
-      version="0.0.3",
+      version="0.0.4",
       description="Playlist Downloader simplifies the process of downloading YouTube playlists by providing a straightforward API to fetch and save videos from a given playlist URL.",
       long_description=open('README.md').read(), 
       long_description_content_type='text/markdown',
