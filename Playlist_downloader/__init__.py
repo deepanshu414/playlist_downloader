@@ -1,10 +1,10 @@
 from pytube import Playlist
 def download(playlist_id,download_path):
     try:
-        playlist_url = 'https://www.youtube.com/playlist?list=' + playlist_id
+        playlist_url = 'https://www.youtube.com/playlist?list=' +playlist_id
         # Create a Playlist object
         playlist = Playlist(playlist_url)
-        download_path=r'{}'.format(download_path)
+        # download_path=r'{}'.format(download_path)
         # Specify the directory where you want to save the downloaded videos
         # Iterate through each video in the playlist and download it to the specified directory
         for video in playlist.videos:
